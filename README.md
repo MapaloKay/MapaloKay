@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MapaloKay
+- 👀 I’m interested in python dev and android development
+- 🌱 I’m currently learning flutter and kotlin.
+- 💞️ I’m looking to collaborate on more projects to do with android dev and python.
+- 📫 How to reach me rahmkanyanta@gmail.com
